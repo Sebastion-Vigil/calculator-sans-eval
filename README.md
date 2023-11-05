@@ -1,4 +1,4 @@
-# IMPORTANT! Change logic module to `module.exports = { f1, f2, ...}  
+# IMPORTANT! Change logic module to `module.exports = { f1, f2, ...}`
 ## on the fly yet cautiously mindful ##
   - https://flexboxsheet.com/
 ### A Few Quck Points to Ponder ###
